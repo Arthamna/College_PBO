@@ -5,6 +5,8 @@
  * @author tukangtesting
  * @version 0.1
  */
+
+ // nama class harus = nama file
 public class TicketMachine
 {
      // definisi variabel
@@ -14,12 +16,11 @@ public class TicketMachine
      
      private int total;
      
-     // yang wajib ada
+     // CONSTRUCTOR ; yang wajib ada
      public TicketMachine(int cost){
          price = cost;
          balance = 0;
          total = 0;
-         
      }
      // basic function
      public int getPrice(){ return price; }
@@ -50,7 +51,19 @@ public class TicketMachine
              System.out.println("Balance now : " + balance);
          }
          else {
-             System.out.println("You must insert another :" + (price - balance) + " cents");
+             System.out.println("You must insert another " + (price - balance) + " cents");
          }
      }
+     public static void main(String[] args){
+        // variabel deklarasi tidak boleh pakai public, dsb.
+        // nama kelas = nama tipe
+        TicketMachine myTicket = new TicketMachine(1000);
+        //sudah ada println beforehand
+        myTicket.insertMoney(2000); 
+        myTicket.printTicket();
+        // System.out.println(myTicket.printTicket());
+        
+    }
+    
 }
+

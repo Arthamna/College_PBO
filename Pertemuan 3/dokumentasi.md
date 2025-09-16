@@ -1,3 +1,3 @@
 
 Dokumentasi hasil jam :
-![](/img/3.png)
+![](/img/3.jpg)

@@ -1,4 +1,4 @@
-# College_P-Web
+# College_PBO
 (IN) Dokumentasi pembelajaran Pemrograman Berbasis Objek
 
 (EN) Object-Oriented Programming documentation

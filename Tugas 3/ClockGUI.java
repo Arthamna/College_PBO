@@ -1,5 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;
+
 import javax.swing.*;
 import javax.swing.border.*;
 
@@ -137,6 +138,12 @@ class TimerThread extends Thread
     private void step() {
         clock.timeTick();
         label.setText(clock.getTime());
+    }
+
+        public static void main(String[] args) {
+
+        SwingUtilities.invokeLater(() -> new ClockGUI());
+
     }
    
 }

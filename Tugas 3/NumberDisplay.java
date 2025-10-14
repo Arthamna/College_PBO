@@ -7,7 +7,6 @@
  */
 public class NumberDisplay
 {
-    // instance variables - replace the example below with your own
     private int limit;
     private int value;
 

@@ -1,6 +1,6 @@
 # Dokumentasi Vending Coffee Machine
 
-[Link Youtube (menyusul)]()
+[Link Youtube](https://youtu.be/HbKLP7mDQNs)
 
 ## Deskripsi Project
 Aplikasi simulasi mesin vending kopi sesuai alur :

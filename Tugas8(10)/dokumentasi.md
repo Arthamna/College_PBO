@@ -1,5 +1,8 @@
 # Testing & Debugging
 
+## Link kode 
+[Kode Testing](/Tugas8(10)/)
+
 ## Deskripsi Program
 
 Program ini pengujian otomatis menggunakan JUnit digunakan untuk menguji sistem penjualan barang beserta komentar pelanggan yang ada.

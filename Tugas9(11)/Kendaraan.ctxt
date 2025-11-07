@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Kendaraan
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Kendaraan\ here.\r\n\r\n\ @author\ Arthamna\r\n\ @version\ \r\n
+comment1.params=merk\ model\ tahunProduksi
+comment1.target=Kendaraan(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getInfo()
+numComments=3

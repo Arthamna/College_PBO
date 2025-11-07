@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Mobil
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mobil\ here.\r\n\r\n\ @author\ Arthamna\r\n\ @version\ \r\n
+comment1.params=merk\ model\ tahunProduksi\ jumlahRoda
+comment1.target=Mobil(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getInfo()
+numComments=3

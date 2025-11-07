@@ -8,3 +8,7 @@
 1. [Tugas 2](./Tugas%202/)  
 1. [Tugas 3](./Tugas%203/)  
 1. [Tugas 4](./Tugas%204/)  
+1. [Tugas 5](./Tugas5(6)/)  
+1. [Tugas 6](./Tugas6(7)/)  
+1. [Tugas 7](./Tugas7(9)/)  
+1. [Tugas 8](./Tugas8(10)/)  
